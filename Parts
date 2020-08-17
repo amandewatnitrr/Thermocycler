@@ -1,0 +1,14 @@
+This is a NodeMCU ESP8266 based ThermalCycler.
+
+Electronic Parts include:
+1) NodeMCU ESP8266
+2) 4 Channel Relay
+3) DC-DC Buck Converter
+4) KY-013 Thermistor Module
+5) TEC1- 12710 Peltier Module
+6) A Vertical PC Cooling Heatsink with Fan
+6) 12V 20A SMPS
+7) 40W cartridge heater (for heated LID)
+8) Thermostat Module (for heated LID)
+
+It is capable of holding 16 0.2ml Tubes at a time. An Aluminium Heater Block has been machined for this.
