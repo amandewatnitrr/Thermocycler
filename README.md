@@ -1,1 +1,1 @@
-# ThermalCycler
+# Thermocycler
